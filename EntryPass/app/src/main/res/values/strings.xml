@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EntryPass</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="Sign_in">Login to Your Account</string>
+    <string name="New">Don\'t Have Account? SignUp</string>
+    <string name="Have_account">Already Have Account? Login</string>
+    <string name="Create">Create Account</string>
+    <item name="SignupEt" type="id">Sign_upEt</item>
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sightahome</string>
+    <string name="logo">Spot your next apartment</string>
+    <string name="Slogan">We will help your accessbility easier</string>
+    <string name="Powered_By">Powered By Blannon</string>
+    
+    <!-- On Boarding Screen -->
+    
+    <!--Titles-->
+    <string name="Slide_One">Search you services</string>
+    <string name="Slide_two">Make a call</string>
+    <string name="Slide_three">Make an inquiry</string>
+    <string name="Slide_four">relax as we sort you out</string>
+    
+    
+    <!-- Button-->
+    
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- DashBoard-->
+    
+    <string name="DashBoard">DashBoard</string>
+    <string name="Search_text">Search</string>
+    <string name="Apartment">Apartment</string>
+    <string name="Movers">Movers</string>
+    <string name="Chemist">Chemist</string>
+    <string name="camp_Market">CampMarket</string>
+    
+    <!--Descriptions-->
+    <string name="services">Services</string>
+    <string name="Service_Description">Finding legitimate services in a place you are new has never been that easy and we are here to help making it more convenient</string>
+    <string name="Availability">Availability of services</string>
+    <string name="view_av">View Availability</string>
+    <string name="categories">Categories</string>
+</resources>

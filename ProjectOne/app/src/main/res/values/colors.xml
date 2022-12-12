@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple"> #6a0dad</color>
+
+    <!-- Dashboard Colours -->
+    <color name="card_1">#FF00FF</color>
+    <color name="card_2">#FFA500</color>
+    <color name="card_3">#00FF7F</color>
+    <color name="card_4">#00FFFF</color>
+    <color name="card_5">#2F4F4F</color>
+    <color name="Peru_background">#CD853F</color>
+    <color name="sandy_brown">#F4A460</color>
+</resources>
