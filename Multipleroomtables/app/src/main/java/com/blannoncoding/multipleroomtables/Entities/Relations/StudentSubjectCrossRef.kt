@@ -5,7 +5,6 @@ import androidx.room.Entity
 import androidx.room.Relation
 
 
-@Entity
 data class StudentSubjectCrossRef(
     @Embedded val school: String,
     @Relation(
