@@ -101,5 +101,17 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/21967#comment
-status: Unchecked
-record: -1
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #1
+
+    You should output a line with length 21. You output a line with length 20
+
+    Please find below the output of your program during this failed test.
+
+    ---
+
+    dv ulfmw z givzhfiv!
+  time: "Fri, 10 Feb 2023 09:51:19 UTC"
+record: 2

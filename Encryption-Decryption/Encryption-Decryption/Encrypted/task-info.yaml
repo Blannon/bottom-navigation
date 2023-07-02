@@ -56,11 +56,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/21966#comment
-status: Failed
+status: Solved
 feedback:
-  message: |-
-    Error in test #1
-
-    Program ran out of input. You tried to read more than expected.
-  time: Tue, 03 Jan 2023 09:19:53 UTC
-record: -1
+  message: Congratulations!
+  time: "Wed, 15 Feb 2023 02:50:22 UTC"
+record: 1
